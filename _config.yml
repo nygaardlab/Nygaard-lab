@@ -23,3 +23,5 @@ permalink: /:title/
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+theme: jekyll-theme-slate
