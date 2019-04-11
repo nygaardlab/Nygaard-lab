@@ -24,4 +24,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
